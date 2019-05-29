@@ -1,1 +1,1 @@
-https://github.com/beknazar88/resume/blob/master/cv.md
+https://beknazar88.github.io/resume/cv
